@@ -1,14 +1,8 @@
----
-title: film
-author: photoy.x
----
+[LINK TO PHOTO ACCOUNT](https://www.instagram.com/photoy.x "link to photo account")  
+[LINK TO PERSONAL ACCOUNT](https://www.instagram.com/yente0603 "link to personal account")   
 
-[LINK TO INSTAGRAM ACCOUNT](https://www.instagram.com/photoy.x "link to photo account")
-
-## | profile |
-> [@yente0603](https://www.instagram.com/yente0603 "link to personal account")
-> 📷 iPhone 12 Pro 
-> 📸 RICOH MYPORT ZOOM 320ps / Canon AV-1
+> 📷 iPhone 12 Pro   
+> 📸 RICOH MYPORT ZOOM 320ps / Canon AV-1  
 
 
 ## | sharing |
