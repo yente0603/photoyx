@@ -3,7 +3,13 @@ title: film
 author: photoy.x
 ---
 
-[LINK TO INSTAGRAM](https://www.instagram.com/photoy.x "link to instagram")
+[LINK TO INSTAGRAM ACCOUNT](https://www.instagram.com/photoy.x "link to photo account")
+
+## | profile |
+> [@yente0603](https://www.instagram.com/yente0603 "link to personal account")
+> 📷 iPhone 12 Pro 
+> 📸 RICOH MYPORT ZOOM 320ps / Canon AV-1
+
 
 ## | sharing |
 
@@ -27,11 +33,9 @@ author: photoy.x
 
 
 ## | shooting |
-
 ILFORD DELTA 3200 2023’11-
 
 ## | existing stocks |
-
 Lomography 800  
 Fuji industrial 100 (expired)  
 Glow 400 (2025/07)  
