@@ -1,8 +1,9 @@
 ---
 title: film
-author: [photoy.x](https://www.instagram.com/photoy.x "link to instagram")
+author: photoy.x
 ---
 
+[LINK TO INSTAGRAM](https://www.instagram.com/photoy.x "link to instagram")
 
 ## | sharing |
 
