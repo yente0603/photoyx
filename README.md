@@ -1,9 +1,9 @@
 ---
 title: film
-author: [@photoy.x](https://www.instagram.com/photoy.x "link to instagram")
+author: @photoy.x
 ---
 
-> Turn over a new leaf.
+[INSTAGRAM](https://www.instagram.com/photoy.x "link to instagram")
 
 ## | sharing |
 
@@ -32,15 +32,15 @@ ILFORD DELTA 3200 2023’11-
 
 ## | existing stocks |
 
-Lomography 800
-Fuji industrial 100 (expired)
-Glow 400 (2025/07)
-Kodak Ultramax 400 (2025/07) 
-Fuji superia 100 (expired)
-Kodak Portra 160
-Amber 100D
-Kodak Gold 200
-ILFORD PAN 100
-5203 50D;
+Lomography 800  
+Fuji industrial 100 (expired)  
+Glow 400 (2025/07)  
+Kodak Ultramax 400 (2025/07)   
+Fuji superia 100 (expired)  
+Kodak Portra 160  
+Amber 100D  
+Kodak Gold 200  
+ILFORD PAN 100  
+5203 50D;  
 
 *Note: ‘;’ is the motion film.
