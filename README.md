@@ -3,6 +3,7 @@
 
 > 📷 iPhone 12 Pro   
 > 📸 RICOH MYPORT ZOOM 320ps / Canon AV-1  
+> 🏞️ Polaroid
 
 
 ## | sharing |
