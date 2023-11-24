@@ -1,6 +1,6 @@
 ---
 title: film
-author: @photoy.x
+author: photoy.x
 ---
 
 [INSTAGRAM](https://www.instagram.com/photoy.x "link to instagram")
