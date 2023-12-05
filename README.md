@@ -25,11 +25,12 @@
 - [ ] Kodak gold 200 2023’06-2023’07(double exp.)
 - [ ] Kodak Ultramax 400 2023’07-2023’09
 - [ ] Fujicolor 100 2023’09-2023’11
+- [ ] ILFORD DELTA 3200 2023’11-2023'12
+
 
 
 ## | shooting |
-ILFORD DELTA 3200 2023’11-
-
+Amber 100D  
 ## | existing stocks |
 Lomography 800  
 Fuji industrial 100 (expired)  
@@ -37,7 +38,6 @@ Glow 400 (2025/07)
 Kodak Ultramax 400 (2025/07)   
 Fuji superia 100 (expired)  
 Kodak Portra 160  
-Amber 100D  
 Kodak Gold 200  
 ILFORD PAN 100  
 5203 50D;  
